@@ -16,7 +16,7 @@ A modular, CPU-optimized hybrid recommendation system that combines collaborativ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cpu-hybrid-recommender.git
+git clone https://github.com/emmanuelakpadaka/hybridRecommender.git
 cd cpu-hybrid-recommender
 
 # Install basic requirements
