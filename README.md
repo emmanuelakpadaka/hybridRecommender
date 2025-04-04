@@ -41,6 +41,25 @@ pip install nmslib
 pip install -e ".[all]"
 ```
 
+## Dataset
+
+This project uses the RetailRocket E-commerce dataset from Kaggle. The dataset contains anonymized behavior data from a real e-commerce website.
+
+### Dataset Source
+- **Dataset Name**: RetailRocket E-commerce Dataset
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+
+### How to Download
+1. Visit the Kaggle dataset page: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
+2. Sign in to your Kaggle account (or create one if needed)
+3. Click the "Download" button
+4. Place the downloaded files in the `data/` directory of this project
+
+The dataset includes:
+- User event data (views, add-to-cart, transactions)
+- Item property data
+- Category tree information
+
 ## Usage
 
 ### Using as a Command-Line Tool
